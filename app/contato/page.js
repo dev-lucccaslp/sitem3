@@ -4,7 +4,7 @@ export default function Contato() {
   return (
     <div>
       <div className="flex flex-col items-center pt-6">
-        <h1 className="text-[32px] font-bold text-red-500">Fale com o Supermeacdo da Familia</h1>
+        <h1 className="text-[32px] font-bold text-red-500">Fale com o Supermercado da Familia</h1>
         <div>
           <div className="flex items-center gap-3 py-5">
             <Image

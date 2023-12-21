@@ -8,9 +8,9 @@ import { RxDotFilled } from 'react-icons/rx';
 
 const Carousel = () => {
   const slides = [
-    {
-      url: '/images/ifood2.png',
-    },
+    // {
+    //   url: '/images/ifood2.png',
+    // },
     {
       url: '/images/pagamento.png',
     },

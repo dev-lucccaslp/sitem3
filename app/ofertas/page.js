@@ -5,7 +5,7 @@ export default function Ofertas() {
     <div className="mt-6 pb-8">
       <div className="flex flex-col items-center pt-6">
         <h1 className="text-[32px] font-bold text-red-500">Ofertas</h1>
-        <p className="text-gray-500 text-lg">Todo dia tem ofertas em um Superbom pertinho de você!</p>
+        <p className="text-gray-500 text-lg">Todo dia tem ofertas em um Super Mercado da Familia pertinho de você!</p>
       </div>
 
       <div className="flex items-center justify-center mb-8">
@@ -24,13 +24,6 @@ export default function Ofertas() {
 
         />
 
-        <Image
-          src="/images/tabloide2.png"
-          height={600}
-          width={450}
-          alt="tabloide"
-          className='rounded-lg shadow-lg'
-        />
       </div>
     </div>
   )

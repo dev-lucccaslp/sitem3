@@ -48,7 +48,7 @@ const Footer = () => {
                 <FaInstagram className='mr-2' /><a target="_blank" href='https://www.instagram.com/supermercadodafamilia319/'>Instagram</a>
               </button>
               <button className="bg-blue-500 text-white hover:bg-white hover:text-blue-500 px-4 py-2 rounded flex justify-center items-center">
-                <FaFacebook className='mr-2' /><a target="_blank" href='https://www.facebook.com/profile.php?id=61553898910658'>Facebook</a>
+                <FaFacebook className='mr-2' /><a target="_blank" href='https://www.facebook.com/supermercadodafamiliaqn319'>Facebook</a>
               </button>
             </div>
           </div>
